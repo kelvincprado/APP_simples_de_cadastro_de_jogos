@@ -1,0 +1,13 @@
+C:\Users\Kelvin\Documents\GitHubProjects\APP simples de cadastro de jogos\bin\Debug\netcoreapp3.1\APP simples de cadastro de jogos.exe
+C:\Users\Kelvin\Documents\GitHubProjects\APP simples de cadastro de jogos\bin\Debug\netcoreapp3.1\APP simples de cadastro de jogos.deps.json
+C:\Users\Kelvin\Documents\GitHubProjects\APP simples de cadastro de jogos\bin\Debug\netcoreapp3.1\APP simples de cadastro de jogos.runtimeconfig.json
+C:\Users\Kelvin\Documents\GitHubProjects\APP simples de cadastro de jogos\bin\Debug\netcoreapp3.1\APP simples de cadastro de jogos.runtimeconfig.dev.json
+C:\Users\Kelvin\Documents\GitHubProjects\APP simples de cadastro de jogos\bin\Debug\netcoreapp3.1\APP simples de cadastro de jogos.dll
+C:\Users\Kelvin\Documents\GitHubProjects\APP simples de cadastro de jogos\bin\Debug\netcoreapp3.1\APP simples de cadastro de jogos.pdb
+C:\Users\Kelvin\Documents\GitHubProjects\APP simples de cadastro de jogos\obj\Debug\netcoreapp3.1\APP simples de cadastro de jogos.csprojAssemblyReference.cache
+C:\Users\Kelvin\Documents\GitHubProjects\APP simples de cadastro de jogos\obj\Debug\netcoreapp3.1\APP simples de cadastro de jogos.AssemblyInfoInputs.cache
+C:\Users\Kelvin\Documents\GitHubProjects\APP simples de cadastro de jogos\obj\Debug\netcoreapp3.1\APP simples de cadastro de jogos.AssemblyInfo.cs
+C:\Users\Kelvin\Documents\GitHubProjects\APP simples de cadastro de jogos\obj\Debug\netcoreapp3.1\APP simples de cadastro de jogos.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin\Documents\GitHubProjects\APP simples de cadastro de jogos\obj\Debug\netcoreapp3.1\APP simples de cadastro de jogos.dll
+C:\Users\Kelvin\Documents\GitHubProjects\APP simples de cadastro de jogos\obj\Debug\netcoreapp3.1\APP simples de cadastro de jogos.pdb
+C:\Users\Kelvin\Documents\GitHubProjects\APP simples de cadastro de jogos\obj\Debug\netcoreapp3.1\APP simples de cadastro de jogos.genruntimeconfig.cache
